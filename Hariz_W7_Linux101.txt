@@ -1,0 +1,43 @@
+Muhamad Saeful Hariz
+Tesla Grandson
+
+1. mkdir Hariz
+2. cd Hariz
+3. mkdir sekolah
+4. mkdir kerja
+5. cd sekolah
+6. touch ijazah.txt
+7. nano ijazah.txt
+8. lalu isi dengan:
+
+Perkenalkan namaku Hariz
+Aku berasal dari Kota Cimahi
+Salam Kenal :D
+
+9. cat ijazah.txt
+10. touch portfolio.txt
+11. nano portfolio.txt
+12. isi dengan:
+
+Saya pernah bekerja pada beberapa perusahaan salah satu diantaranya ialah
+
+- Philips
+- Lintasarta
+- Freeport
+
+13. cd ..
+14. cd kerja
+15. touch cv.txt
+16. nano cv.txt
+17. isi dengan:
+
+Salam,
+
+Perkenalkan namaku Hariz, saya memiliki kegemaran
+- Membaca komik
+- Bermain puzzle
+- Membaca Novel
+
+18. cat cv.txt
+19. cd ..
+20. mv sekolah/portfolio.txt kerja/
